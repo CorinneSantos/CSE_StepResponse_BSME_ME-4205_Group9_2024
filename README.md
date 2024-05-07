@@ -88,8 +88,43 @@ Figure
 
 Block Diagram
 
+
 ![No 6_BlockDiagram](https://github.com/CorinneSantos/CSE_StepResponse_BSME_ME-4205_Group9_2024/assets/159272619/bfeed3f0-430e-456b-97b9-4a6bc4782fd9)
 
 Step Response
 
 ![No 6_Step Response](https://github.com/CorinneSantos/CSE_StepResponse_BSME_ME-4205_Group9_2024/assets/159272619/ee2d104f-073f-47f4-b5ee-8301e486c593)
+
+AMURAO, MARIVEN E.
+
+No. 7
+
+Figure
+
+![No  7_Figure 1](https://github.com/CorinneSantos/CSE_StepResponse_BSME_ME-4205_Group9_2024/assets/159036308/3d0bcf11-c5b5-49d5-9958-e2e108a67490)
+
+Block Diagram
+
+![No  7_Block Diagram](https://github.com/CorinneSantos/CSE_StepResponse_BSME_ME-4205_Group9_2024/assets/159036308/14987025-8401-4dd1-80c0-03ba27f54cae)
+
+Step Response
+
+![No  7_Step Response ](https://github.com/CorinneSantos/CSE_StepResponse_BSME_ME-4205_Group9_2024/assets/159036308/6a980cd7-cb02-4ffe-9072-486d5a825c9d)
+
+No. 8
+
+Figure
+
+![No  8_Figure 1](https://github.com/CorinneSantos/CSE_StepResponse_BSME_ME-4205_Group9_2024/assets/159036308/0d8e80a6-4cd8-469e-a484-ce0e6c6ee9cd)
+
+Block Diagram
+
+![No  8_Block Diagram](https://github.com/CorinneSantos/CSE_StepResponse_BSME_ME-4205_Group9_2024/assets/159036308/aaf87d66-7c98-4adb-a0b7-2586f28afe17)
+
+Step Response
+
+![No  8_Step Response ](https://github.com/CorinneSantos/CSE_StepResponse_BSME_ME-4205_Group9_2024/assets/159036308/bc7d2484-df08-4047-9ba5-3b09e2de4167)
+
+
+
+
