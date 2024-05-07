@@ -105,7 +105,8 @@ Figure
 
 Block Diagram
 
-![No  7_Block Diagram](https://github.com/CorinneSantos/CSE_StepResponse_BSME_ME-4205_Group9_2024/assets/159036308/14987025-8401-4dd1-80c0-03ba27f54cae)
+![No  7_Block Diagram](https://github.com/CorinneSantos/CSE_StepResponse_BSME_ME-4205_Group9_2024/assets/159036308/b55778d1-da75-4908-aef6-1beeddf3d76a)
+
 
 Step Response
 
@@ -119,7 +120,8 @@ Figure
 
 Block Diagram
 
-![No  8_Block Diagram](https://github.com/CorinneSantos/CSE_StepResponse_BSME_ME-4205_Group9_2024/assets/159036308/aaf87d66-7c98-4adb-a0b7-2586f28afe17)
+![No  8_Block Diagram](https://github.com/CorinneSantos/CSE_StepResponse_BSME_ME-4205_Group9_2024/assets/159036308/7e9b4955-6167-4c2d-802e-ed8e725d5cbd)
+
 
 Step Response
 
